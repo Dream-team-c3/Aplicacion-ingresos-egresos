@@ -1,5 +1,3 @@
-package com.ciclo3.proyecto;
-
 public class Empleado {
 
     //Atributos
